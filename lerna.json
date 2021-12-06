@@ -1,0 +1,17 @@
+{
+  "packages": [
+    "packages/z-taruo-ui"
+  ],
+  "command": {
+    "publish": {
+      "message": "chore(release): publish %s"
+    },
+    "create": {
+      "homepage": "https://github.com/zhangxuewei/z-taruo-ui",
+      "license": "MIT"
+    }
+  },
+  "version": "1.0.0",
+  "npmClient": "yarn",
+  "useWorkspaces": true
+}
